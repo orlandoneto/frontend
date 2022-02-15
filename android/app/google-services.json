@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "496670811135",
+    "firebase_url": "https://aplicativo-clinic-farma.firebaseio.com",
+    "project_id": "aplicativo-clinic-farma",
+    "storage_bucket": "aplicativo-clinic-farma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496670811135:android:f5a871a0625c70f9",
+        "android_client_info": {
+          "package_name": "br.com.paguemenos.anjodaguarda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496670811135-43tclbl2hcsi7um42al2mhcsaoclpji8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.paguemenos.anjodaguarda",
+            "certificate_hash": "5ac0e4a047be5bf256a9e8c330e8daae4ec9b5b5"
+          }
+        },
+        {
+          "client_id": "496670811135-ffbh7if4bka0s3l9lrc6kqb8jnmsj0q1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.paguemenos.anjodaguarda",
+            "certificate_hash": "f0473b4e64e6049d4e5d3ba49bb8a3deb02d2bdb"
+          }
+        },
+        {
+          "client_id": "496670811135-hd8ehjh7occt571019b3tb9qj4s0odno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.paguemenos.anjodaguarda",
+            "certificate_hash": "0446080b8e10f5e2af91ac698a42524bb44309b0"
+          }
+        },
+        {
+          "client_id": "496670811135-4pmjrhlqhesl9ftq32o9jojn8jb2jmid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJLBH2SyyAedAXgMbfiRHGtPplLA0UrmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496670811135-4pmjrhlqhesl9ftq32o9jojn8jb2jmid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496670811135-9pm09l2cssi1mdce2ig2452ch5gkivll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.paguemenos.anjodaguardaw",
+                "app_store_id": "1172438313"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

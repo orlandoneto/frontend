@@ -1,0 +1,18 @@
+<svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="13.6953" cy="13.1289" r="13" fill="url(#paint0_linear)"/>
+<circle cx="10.1953" cy="17.5039" r="0.875" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="17.6328" cy="17.5039" r="0.875" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.8203 14.8789H20.2578V16.6289C20.2578 17.1122 19.8661 17.5039 19.3828 17.5039H18.5078" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.8203 17.5039H16.7578" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.13281 15.7539H8.2744" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.32031 17.5039H8.00781C7.52456 17.5039 7.13281 17.1122 7.13281 16.6289V14.1585C7.13299 13.8008 7.35082 13.4793 7.6829 13.3465L9.32031 12.6914L9.75781 9.62891H12.8203V17.5039H11.0703" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.32031 12.6914H12.8203" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.8203 7.87891H19.6745C19.9966 7.87891 20.2578 8.14007 20.2578 8.46224V14.8789H12.8203V7.87891Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.46615 7.87891H12.8203V9.62891H8.88281V8.46224C8.88281 8.14007 9.14398 7.87891 9.46615 7.87891Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear" x1="0.695312" y1="13.1289" x2="29.4888" y2="14.756" gradientUnits="userSpaceOnUse">
+<stop offset="0.0103449" stop-color="#0054A6"/>
+<stop offset="1" stop-color="#3397D1"/>
+</linearGradient>
+</defs>
+</svg>

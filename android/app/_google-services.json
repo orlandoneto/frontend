@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375425584204",
+    "project_id": "aplicativo-pague-menos-beta",
+    "storage_bucket": "aplicativo-pague-menos-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375425584204:android:c96534171d7ede0d2778e9",
+        "android_client_info": {
+          "package_name": "br.com.paguemenos.anjodaguarda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375425584204-5jfutldv5gstv05hq22pra95td3ot53a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.paguemenos.anjodaguarda",
+            "certificate_hash": "f0473b4e64e6049d4e5d3ba49bb8a3deb02d2bdb"
+          }
+        },
+        {
+          "client_id": "375425584204-m54ttokoe5ikmocft3u8fsl1kva5fsma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.paguemenos.anjodaguarda",
+            "certificate_hash": "5ac0e4a047be5bf256a9e8c330e8daae4ec9b5b5"
+          }
+        },
+        {
+          "client_id": "375425584204-pcqjol43hk94cv4u22d2uj62fh8hbtp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoVsCUnkixsIRD7XT-HL5siEZT4wmrwXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375425584204-pcqjol43hk94cv4u22d2uj62fh8hbtp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

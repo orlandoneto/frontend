@@ -1,0 +1,35 @@
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+$RNFirebaseAsStaticFramework = true
+ 
+platform :ios, '11.0'
+target 'paguemenosapp' do
+
+  pod 'MarketingCloudSDK', '~> 7.6'
+  permissions_path = '../node_modules/react-native-permissions/ios'
+  pod 'Permission-Notifications', :path => "#{permissions_path}/Notifications"
+   
+  config = use_native_modules!
+  
+  pod 'GoogleSignIn'
+
+  # React Native Maps dependencies
+  rn_maps_path = '../node_modules/react-native-maps'
+  pod 'react-native-google-maps', :path => rn_maps_path
+
+  use_react_native!(:path => config["reactNativePath"])
+
+
+  # Enables Flipper.
+  #
+  # Note that if you have use_frameworks! enabled, Flipper will not work and
+  # you should disable these next few lines.
+  use_flipper!
+
+
+
+  post_install do |installer|
+    flipper_post_install(installer)
+   
+  end
+end

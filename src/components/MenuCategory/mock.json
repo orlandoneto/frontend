@@ -1,0 +1,121 @@
+[{
+  "id": 8,
+  "nome": "Ofertas",
+  "imagem": "",
+  "queryField": "400",
+  "type": "department",
+  "vtexId": "400",
+  "ordem": 2,
+  "subcategorias": [
+    {
+      "id": 62,
+      "nome": "Ofertas",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-alimentos.jpg",
+      "queryField": "400/402",
+      "type": "category",
+      "vtexId": "402",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 63,
+      "nome": "Alimentos",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-alimentos.jpg",
+      "queryField": "400/402",
+      "type": "category",
+      "vtexId": "402",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 64,
+      "nome": "Acessórios",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-acessorios2.jpg",
+      "queryField": "400/401",
+      "type": "category",
+      "vtexId": "401",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 65,
+      "nome": "Banho",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-banho.jpg",
+      "queryField": "400/403",
+      "type": "category",
+      "vtexId": "403",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 66,
+      "nome": "Fraldas",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-fraldas.jpg",
+      "queryField": "400/406",
+      "type": "category",
+      "vtexId": "406",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 67,
+      "nome": "Higiene bucal",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-higiene-bucal.jpg",
+      "queryField": "400/408",
+      "type": "category",
+      "vtexId": "408",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 68,
+      "nome": "Para a mamãe",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-para-mamae.jpg",
+      "queryField": "400/405",
+      "type": "category",
+      "vtexId": "405",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 69,
+      "nome": "Proteção solar",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-protecao-solar.jpg",
+      "queryField": "400/409",
+      "type": "category",
+      "vtexId": "409",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 70,
+      "nome": "Repelentes",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-repelentes.jpg",
+      "queryField": "400/410",
+      "type": "category",
+      "vtexId": "410",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 71,
+      "nome": "Roupas",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-roupas.jpg",
+      "queryField": "400/411",
+      "type": "category",
+      "vtexId": "411",
+      "ordem": 0,
+      "subcategorias": []
+    },
+    {
+      "id": 72,
+      "nome": "Troca de fralda",
+      "imagem": "https://paguemenos.vteximg.com.br/arquivos/mamae-bebe-troca-fraldas.jpg",
+      "queryField": "400/412",
+      "type": "category",
+      "vtexId": "412",
+      "ordem": 0,
+      "subcategorias": []
+    }
+  ]
+}]
